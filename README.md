@@ -1,2 +1,2 @@
 # ArabicNumbersToText
-Arabic Numbers To Text
+Arabic Numbers To Text in microsoft word
